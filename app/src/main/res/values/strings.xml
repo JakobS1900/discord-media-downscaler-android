@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Discord Media Downscaler</string>
+    <string name="tagline">Compress anything to fit Discord — with minimal quality loss.</string>
+    <string name="add_files">+ Add Files</string>
+    <string name="clear">Clear</string>
+    <string name="compress">Compress!</string>
+    <string name="cancel">Cancel</string>
+    <string name="open_output">Open Output</string>
+    <string name="auto_open">Auto-open output folder when done</string>
+    <string name="ready_status">Ready. Add files and tap Compress!</string>
+    <string name="drop_zone">Tap here to add files\n(images, video, audio)</string>
+    <string name="limit_label">Limit:</string>
+    <string name="notif_channel_compression">Compression</string>
+    <string name="notif_channel_compression_desc">Progress while files are being compressed</string>
+    <string name="notif_compressing_title">Compressing media…</string>
+</resources>

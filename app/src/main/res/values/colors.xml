@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Discord palette mirrored from main.py:49-59 -->
+    <color name="dmd_bg">#1E1F22</color>
+    <color name="dmd_bg2">#2B2D31</color>
+    <color name="dmd_bg3">#313338</color>
+    <color name="dmd_accent">#5865F2</color>
+    <color name="dmd_accent2">#7289DA</color>
+    <color name="dmd_fg">#DBDEE1</color>
+    <color name="dmd_fg_dim">#80848E</color>
+    <color name="dmd_green">#23A559</color>
+    <color name="dmd_red">#F23F43</color>
+    <color name="dmd_yellow">#F0B232</color>
+</resources>
