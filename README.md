@@ -57,4 +57,19 @@ gradle wrapper --gradle-version 8.9
 
 ## License
 
-GPL — because we link against ffmpeg-kit's `full-gpl` flavour (which bundles libx264, libmp3lame, libvorbis).
+GPL-3.0, because this links ffmpeg-kit's `full-gpl` flavour, which bundles
+libx264, libmp3lame and libvorbis. The full licence text is in
+[LICENSE](LICENSE).
+
+Copyright (C) 2026 Jakob Stanfield
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version. It is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+Note that the desktop version this was ported from is MIT, because it shells
+out to a separate FFmpeg binary rather than linking a GPL build into the same
+process.
